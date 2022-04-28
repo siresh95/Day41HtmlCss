@@ -1,0 +1,41 @@
+.div1{
+    background-color: antiquewhite;   
+    
+}
+.div2{
+    background-color: aqua;        
+}
+.div3{
+    background-color:aquamarine;        
+}
+.div4{
+    background-color: beige;   
+     
+}     
+
+.div5{
+    background-color: bisque;     
+    
+}
+div{
+    width: 10%;
+}
+/* .container{
+    background-color:blanchedalmond;
+    width: 50vw;
+    height: 70vh;
+    display: flex;
+    justify-content:center ;
+    align-items :center;
+    flex-direction: row;
+    align-self: center;
+    
+
+} */
+/* body{
+    height: 100vh;
+    width: 100vw;
+    background-color: blueviolet;
+    display: flex;
+
+} */
